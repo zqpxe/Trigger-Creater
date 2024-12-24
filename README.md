@@ -1,6 +1,6 @@
 
 # Trigger Creater
-> Made to use along side with an Event Logger from an executor
+> Made to use alongside with an Event Logger from an executor
 
 ## How to Run (console):
 To run the script within the console only:
